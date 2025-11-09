@@ -70,7 +70,7 @@ One of Monumento’s flagship features — generates **personalized travel itine
 * Day-by-day plans with activities, timings, and cost estimates
 * Error handling and responsive UI
 
-🎥 [Watch Demo](https://drive.google.com/file/d/13uP4K8FzaERB5crQBwfNXelx3SzZtL6q/view)
+🎥 [Watch Demo](https://drive.google.com/file/d/1Uv8FyBcOpkb6HEHtkrq40ikODiWocZZk/view?usp=sharing)
 
 ---
 
@@ -86,7 +86,7 @@ A **community-driven review system** for monument validation.
 * **Edit Suggestions:** Propose edits with explanations
 * **Approval Indicators:** Real-time status, progress bars, and verification badges
 
-🎥 [Watch Demo](#)
+🎥 [Watch Demo](https://drive.google.com/file/d/14dauWY4uDXRmIKO7LjUvVVvtqxA5pbNU/view?usp=sharing)
 
 ---
 
@@ -116,7 +116,7 @@ Introduced **interest-based communities** for cultural discussions and engagemen
 * Dedicated community feeds
 * Backend integration via Appwrite
 
-🎥 [Watch Demo](https://drive.google.com/file/d/13uP4K8FzaERB5crQBwfNXelx3SzZtL6q/view)
+🎥 [Watch Demo](https://drive.google.com/file/d/1DJf12YhW9Fng0fgulWDiTr4fwG2NO02p/view?usp=sharing)
 
 ---
 
