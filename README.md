@@ -131,7 +131,7 @@ Users can ask contextual questions (e.g., history, visiting hours, nearby attrac
 * BLoC-based clean architecture
 * Intuitive chat UI with bubbles, loaders, and error handling
 
-🎥 [Watch Demo](#)
+🎥 [Watch Demo](https://drive.google.com/file/d/1pPjLc_RVr9N3e0gz61PUi1l-6apE62DT/view?usp=drivesdk)
 
 ---
 
