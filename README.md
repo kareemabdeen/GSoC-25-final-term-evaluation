@@ -145,7 +145,7 @@ Implemented social **share functionality** for AI-generated itineraries using `s
 * Works with all social platforms
 * Improves collaborative trip planning
 
-🎥 [Watch Demo](#)
+
 
 ---
 
@@ -161,7 +161,7 @@ Improved app stability, responsiveness, and performance.
 * Resolved check-in & like/unlike issues
 * Improved Appwrite data fetching and error handling
 
-🎥 [Watch Summary](#)
+
 
 ---
 
