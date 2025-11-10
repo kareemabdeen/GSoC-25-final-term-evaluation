@@ -101,7 +101,7 @@ A full **Stories system** similar to Instagram, enhancing social engagement.
 * Auto-expiry after 24 hours
 * Story viewer with progress bar, view count, and author info
 
-🎥 [Watch Demo](#)
+🎥 [Watch Demo](https://drive.google.com/file/d/1yt4GQm5tJFSML5PZzS4YbptelkF1d12z/view?usp=drivesdk)
 
 ---
 
